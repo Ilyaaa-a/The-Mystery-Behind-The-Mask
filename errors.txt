@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/screens.rpy", line 462: 'Show' is not a keyword argument or valid child of the textbutton statement.
+    Show("fullscreen_image", image="images/fullscreen/bad_end.png")
+        ^
+
+Ren'Py Version: Ren'Py 8.3.4.24120703
+Mon Jan 27 15:56:32 2025
