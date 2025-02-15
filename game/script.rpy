@@ -3,7 +3,7 @@
 
 label start:
     scene bg rooftops 2 with fade 
-    "Париж, современность"   
+    "Париж, современность..."   
     #show animation1 at left2 with dissolve ВОТ ТАК АНИМАЦИЮ МОЖНО ДЕЛАТЬ
     #show spin1 at left2 with dissolve 
     show mar happy at left2 with dissolve
