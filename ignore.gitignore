@@ -1,0 +1,13 @@
+log.txt
+errors.txt
+traceback.txt
+output.txt
+*.keystore
+/.vscode
+**/*.rpyc
+**/*.rpymc
+/game/saves
+/game/cache
+!/old-game/**/*.rpyc
+*.bak
+/game/tl/None/common.rpymc
